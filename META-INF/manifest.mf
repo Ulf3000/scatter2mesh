@@ -1,0 +1,50 @@
+Manifest-Version: 1.0
+
+Name: install.rdf
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: K/N1ftl+8mN6bkYutEjzKA==
+SHA1-Digest: pGl4L53oPlGhfy+MPQ26ETuP1Hs=
+SHA256-Digest: zZ3nj5GXtsm3RWzkNOQX375E/oWQ4pZcfmhie7VmMHc=
+
+Name: bootstrap.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 7bXGjs354WXP08z1LJmaUQ==
+SHA1-Digest: hBvzrYsRacNpTOCOH+GOhYBn2mE=
+SHA256-Digest: RLxi7cmrdHPTOLFUL8chSMdpKOH60LzfB6N9RHbG7vs=
+
+Name: index.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: bDUn/LdlAZInvi3cc192JA==
+SHA1-Digest: 5xfiIIxjCl1tgiKuT4LKjS/LM+k=
+SHA256-Digest: eR4YApY3OXzv1Ku2FJmcDt6EFVEt9SgmV8gGie+0ibM=
+
+Name: package.json
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: L9udIYwUXh+/1rzyQPLgcg==
+SHA1-Digest: OMVBX4E0lvmiFXO6E9rfiTe3uak=
+SHA256-Digest: GdILHkJpnfV3fuy3YgKKhERVYgLJkklrF/hpuZLMHNo=
+
+Name: data/getUserStyle.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: J9hgu4gKrMzTC/A0oBizzw==
+SHA1-Digest: 9PWvyNjhGW/BB51e9mebkxIOPJI=
+SHA256-Digest: R48QdJj6eOwczzAfO1KcQopKvzeHUHfG0GVOE9BBO2s=
+
+Name: data/icon-16.gif
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: J6teei9azdDhsoMGOjRTZA==
+SHA1-Digest: HSKwXobBmVp4cpt1GPym86LGXjk=
+SHA256-Digest: YJ9zzWIjEiyikM9625d3EO4iQQFiMcbO7ODQ/N6jsTI=
+
+Name: data/styler.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: jeuw8rPMYYOzJXFyjlaZCA==
+SHA1-Digest: yDm4VZ0rta7qP9XivtgkxNt2s7U=
+SHA256-Digest: IEkIa3E5bhQcOh5WQspwT7K7D82HbVDl2pPMyhJAHEs=
+
+Name: data/styler2.html
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: DwR2dKuw/djck9EHIfV+zQ==
+SHA1-Digest: BFM8akBL1hNLNx/VUJ/kVQdohTk=
+SHA256-Digest: K5oxhvSWDH9vVNX8Expvoqmq5pGuGq57xwDpNEJKa4s=
+
