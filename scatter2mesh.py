@@ -17,6 +17,9 @@
 # ##### END GPL LICENSE BLOCK #####
 
 
+
+#Information about Addon
+
 bl_info = {
     "name": "scattertomesh",
     "author": "Alex Mehler",
@@ -40,7 +43,10 @@ from bpy.types import (
     
 )
 
-class OBJECT_OT_scattertomesh(Operator):
+
+#class for our script
+
+class OBJECT_OT_scattertomesh(Operator):   # always start with OBJECT_OT_ when manipulating objects
     
     bl_label = "Mesh from Scatter"
     bl_idname = "object.scattertomesh"
@@ -50,7 +56,7 @@ class OBJECT_OT_scattertomesh(Operator):
     bl_options = {'REGISTER', 'UNDO'}
     
     
-    def execute(self,context):
+    def execute(self,context):  # simple self context 
                 
 
         bpy.ops.object.duplicates_make_real()
@@ -79,13 +85,13 @@ class OBJECT_OT_scattertomesh(Operator):
         #bpy.ops.outliner.select_walk(direction='UP')
         #bpy.ops.outliner.collection_delete(hierarchy=False)
 
-        return{'FINISHED'}
+        return{'FINISHED'}  # important , use after your function
    
 
 
 
 
-
+# add the menues to view3d > object 
 
 def menu_func(self, context):
     self.layout.operator(OBJECT_OT_scattertomesh.bl_idname)
